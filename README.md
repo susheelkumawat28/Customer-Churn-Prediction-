@@ -26,6 +26,12 @@ A machine learning project to predict whether a customer will churn based on ser
 Multiple ML algorithms were tested and compared based on performance metrics.  
 The best-performing model achieved 80.21% accuracy.
 
+---
+
+📊 Power BI Dashboard
+
+This repository also includes an interactive Power BI dashboard designed to visualize key insights from the dataset. The dashboard highlights important metrics such as customer demographics, model predictions, churn analysis, financial summary, and other decision-focused KPIs. It helps in understanding patterns and trends more effectively through visual storytelling.
+
 
 Open the notebook and run all cells.
 
